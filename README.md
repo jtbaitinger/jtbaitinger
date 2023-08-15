@@ -1,0 +1,3 @@
+- Hi, I’m Jackson Baitinger. I’m interested in creative data analysis, machine learning models, and sports analysis. I’m currently learning advanced SQL, advanced Python for ETL, and more about machine learning.
+- I am looking for opportunities to start my career in data analytics, business intelligence, or data science. 
+- You can reach me at jackson.baitinger@gmail.com
